@@ -6,3 +6,5 @@ AUTHOR : IYYAPPAN
 3 Last Screen Code
 4 Attachements(Aduio ,Video , Music) Code
 5 Hiding The Last Seen Code
+6 Adding Audio Call Features
+7 Adding Video Call Features
